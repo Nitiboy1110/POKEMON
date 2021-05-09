@@ -1,0 +1,58 @@
+body {
+    text-align: center;
+    background-color: cadetblue;
+}
+
+img {
+    width: 260px;
+    height: 260px;
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 30px;
+    color: firebrick;
+}
+
+hr {
+    color: black;
+}
+
+ul {
+    position: absolute;
+
+}
+
+h2 {
+    color: blueviolet;
+    font-family: sans-serif;
+    font-size: 40px
+}
+
+p {
+    text-align: center;
+    font-family: cursive;
+}
+
+.carousel li {
+    list-style-type: circle;
+}
+
+.carousel-content {
+    font-size: 20px;
+}
+
+.carousel-indicators {
+    margin-top: 80px;
+}
+
+.active {
+    list-style-type: decimal-leading-zero;
+}
+
+.menu {
+    display: flex;
+    margin: 10px;
+    cursor: pointer;
+    z-index: 9;
+}
